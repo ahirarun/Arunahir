@@ -1,0 +1,59 @@
+Db - Tops
+Table - students
+Columns - 
+
+id
+student_name - varchar
+student_std - int
+student_fees - int
+student_grade - varchar
+
+
+1)create db with the name of tops
+-> create database tops
+
+2)create table with the name of students and predefined column is
+id and student_name
+->create table student(id int primary key auto_increment , name varchar (60));
+
+3)After creation of table add one more column student_fees
+->alter table students add fees varchar (60);
+
+4)After creation of table and student_fees add one more column student_grdae
+->alter table students add std int(30) after fees ;
+
+5)change datatype of student grade
+->alter table students add grade varchar (60) after std ;
+
+6)remove column student_grade
+->lter table students drop grade 
+
+7)Insert data in all columns
+>insert into students (id,students_name,fees,std)values(1,'rahul')
+>insert into students (name) values ( 'rahul'),('sagar'); 
+>insert into students (fees) values ( '45000'),('56000'); 
+>insert into students (std) values ( '11'),('12'); 
+
+8)update data in any one column
+>update students set id='1',student name ='rahul',students std='11',students_fees='4000' where id=7
+>UPDATE students set name= 'rahul'where id= 1
+>UPDATE students set name= 'bharat'where id= 2
+>UPDATE students set name= 'sagar'where id= 3
+>UPDATE students set name= 'pravin'where id= 4
+>UPDATE students set name= 'manoj'where id= 5
+>UPDATE students set name= 'denish'where id= 6
+>UPDATE students set name= 'keshur'where id= 7
+>UPDATE students set name= 'keval'where id= 8
+
+9)delete data from any column
+>delete from students where id=4
+
+10)select data according to grades
+>select students grade from students
+
+11)select data according to column wise
+>select students name from students
+
+
+
+ 
