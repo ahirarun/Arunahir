@@ -1,0 +1,39 @@
+whatsapp payment scenarios 
+
+1. verify whatsapp is open properly or not 
+2. verify whatsapp payment option is show properly
+3. verify whatsapp any update is exist so sometimes you are not update so thats why payment option is not showing 
+4. verify your ionternet connnections is on or not if not something problem 
+5. verify whatsapp server is work properly or not 
+6. verify scan option is work properly sometimes your qr is not visible properly thats why payment is not successfull
+7. whatsapp gives two option first scan and second you select your bank and give payment 
+8. select your bank than verify your account few second and verify start than your all account in your number connect who showing proerly 
+9. verify your account is right and work properly 
+10. whatsapp gives so many option like bhimupi, paytm,google pay , phone pe select any one and payment 
+11. verify all option in your payment methods and figure out its work or not 
+12. verify your bank account and select your bank no. and payment 
+13. you are verify in your account verify that message in box is show 
+14. whatsapp gives so many option to payment verify and pay you want 
+15. verify select your bank account and gives pass than payment is sucessfull or not 
+16. verify you pay and payment message is show or not 
+17. sometimes server down so thats why transaction is failed
+
+
+whatsapp generate group scenarios 
+1. verify whatsapp is open properly or not
+2. verify your internet connection is open or not 
+3. verify your whatsapp server is work properly 
+4. verify whatsapp group option is show or not 
+5. after click on group you have list to peopels if you are add in group
+6. verify that peoples you add in group is showing sometimes number is not save so that's why user not showing 
+7. after select peoples than verify group is create or not 
+8. verify group name and check group name is show or not sometimes something went wrong and group name is not show
+9. verify group name and try to change than check group name is change or not 
+10. if you are upload group image so verify group image is show or not 
+11. after create group so many options was showing verify that options was work or not
+12. verify sometimes you create group but you miss some person for add check add options for add person
+13. you are share your group link and invite others verify this option is work properly or not
+14. if you want you add your group in community
+15. sometimes other post some things that thing showing in gallary verify media visibility option is work properly or not 
+16. sometimes some important thing in group who post but you are not open group and that thing delete some days so verify whatsapp notifivation option is on or not 
+17. verify if you are delete group than group is delete or not sometimes server is down so thats why group is show after delete
